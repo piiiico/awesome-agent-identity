@@ -81,6 +81,7 @@ Things you can buy. Most ship to the CISO, not the developer. RSAC 2026 (March 1
 Things you can install and run. Smaller, faster-moving, often gappy.
 
 - [@agentlair/a2a-trust-audit](https://www.npmjs.com/package/@agentlair/a2a-trust-audit) - Audits A2A agent cards for missing identity and trust signals. Outputs a graded report. Maintained by AgentLair.
+- [affixio](https://www.npmjs.com/package/affixio) - Host-side signed yes/no ACTION attestation for agents (Agentic Pay / x402BeforePay / KYA). Not person KYC. ([GitHub](https://github.com/AffixIO/SDK)) ([docs](https://www.affix-io.com/agent-trust/))
 - [@aria-registry/verify](https://www.npmjs.com/package/@aria-registry/verify) - Verifier for the [ARIA Protocol](https://aria.bar/), which composes W3C DIDs, VCs, and DNS-anchored agent identity into an open stack.
 - [Visa Trusted Agent Protocol](https://github.com/visa/trusted-agent-protocol) - HTTP Message Signatures plus PKI for commerce-bound agent identity. Apache-2.0. Python and JavaScript.
 - [Cloudflare web-bot-auth reference](https://github.com/cloudflare/web-bot-auth) - Reference implementation of the Web Bot Auth IETF draft.
