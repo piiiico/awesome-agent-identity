@@ -52,6 +52,7 @@ Active Internet-Drafts addressing agent identity, trust, and lifecycle. None are
 - [EAT Profile for Autonomous AI Agents](https://datatracker.ietf.org/doc/draft-messous-eat-ai/) - Huawei. Static attestation claims for agents: model identity, training provenance, SBOM, allowed APIs.
 - [Trust Scoring and Identity for Agent Payments](https://datatracker.ietf.org/doc/draft-sharif-agent-payment-trust/) - CyberSecAI. Five-dimension behavioral trust scoring with tiered spending limits.
 - [SCITT Architecture](https://datatracker.ietf.org/doc/draft-ietf-scitt-architecture/) - Working-group draft. Signed Statement → Transparency Service → Receipt. Where audit chains belong if you want a standard.
+-  [AER-1: AI Agent Execution Receipts](https://datatracker.ietf.org/doc/draft-zambo-aer1/) - Internet-Draft defining a verifiable receipt for each AI agent job, so what an agent did can be held to account after the fact from the record itself.
 
 ## Working Groups
 
