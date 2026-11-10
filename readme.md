@@ -92,6 +92,7 @@ Things you can install and run. Smaller, faster-moving, often gappy.
 - [Coinbase x402 reference](https://github.com/coinbase/x402) - Reference implementation of the x402 micropayment protocol.
 - [openentity](https://www.npmjs.com/package/openentity) - CLI that gives an agent a self-held did:key identifier, a signed Entity Document and a hash-chained record in a public transparency log.
 - [Know Your Agent](https://github.com/RishabhPande/know-your-agent) - Offline Python prototype for Ed25519-signed agent credentials, scoped delegation and credential revocation.
+- [Agent Trust Discovery](https://github.com/agentnameservice/agent-trust-discovery) - Go service that indexes agents from an ANS registry and transparency log and scores each one on integrity, identity, solvency, behavior and safety, showing every signal and weight behind the number. MIT. Offline demo runs from fixtures.
 
 ## Reading
 
